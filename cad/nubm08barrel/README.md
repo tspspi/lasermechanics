@@ -1,6 +1,6 @@
-# NUBM08 and NUBM44 barrel
+# NUBM08 and NUBM44/NUBM0E barrel
 
-This barrel is designed to tightly fit around the NUBM44 and NUBM08
+This barrel is designed to tightly fit around the NUBM44/NUBM0E and NUBM08
 diodes (with thermal grease) and retain the diode with an M12 retaining
 ring from the top. In contrast to many commercial packages this should
 provide enough heatsinking capabilities to not kill diodes pretty fast ...
